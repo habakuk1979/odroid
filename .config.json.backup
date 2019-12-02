@@ -803,7 +803,7 @@
   "node-red-contrib-simple-gate": {
    "name": "node-red-contrib-simple-gate",
    "version": "0.2.4",
-   "local": false,
+   "local": true,
    "nodes": {
     "gate": {
      "name": "gate",
@@ -820,7 +820,7 @@
   "node-red-contrib-bigtimer": {
    "name": "node-red-contrib-bigtimer",
    "version": "2.2.5",
-   "local": false,
+   "local": true,
    "nodes": {
     "bigtimer": {
      "name": "bigtimer",
