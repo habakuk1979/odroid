@@ -833,6 +833,33 @@
      "file": "/home/odroid/.node-red/node_modules/node-red-contrib-bigtimer/bigtimer.js"
     }
    }
+  },
+  "node-red-contrib-users": {
+   "name": "node-red-contrib-users",
+   "version": "0.1.9",
+   "local": true,
+   "nodes": {
+    "users_config": {
+     "name": "users_config",
+     "types": [
+      "users_config"
+     ],
+     "enabled": true,
+     "local": true,
+     "module": "node-red-contrib-users",
+     "file": "/home/odroid/.node-red/node_modules/node-red-contrib-users/nodes/users_config.js"
+    },
+    "users_isloggedin": {
+     "name": "users_isloggedin",
+     "types": [
+      "users_isloggedin"
+     ],
+     "enabled": true,
+     "local": true,
+     "module": "node-red-contrib-users",
+     "file": "/home/odroid/.node-red/node_modules/node-red-contrib-users/nodes/users_isloggedin.js"
+    }
+   }
   }
  },
  "_credentialSecret": "f4402ba912337e5ee31d65081ef492c4f609191bc03150a8d34c172a73476589",
@@ -850,7 +877,7 @@
    },
    "menu-deploymenu-item-flow": false,
    "menu-deploymenu-item-full": true,
-   "menu-menu-item-sidebar": false
+   "menu-menu-item-sidebar": true
   }
  }
 }
