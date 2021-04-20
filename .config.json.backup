@@ -860,6 +860,25 @@
      "file": "/home/odroid/.node-red/node_modules/node-red-contrib-users/nodes/users_isloggedin.js"
     }
    }
+  },
+  "node-red-contrib-generic-ble": {
+   "name": "node-red-contrib-generic-ble",
+   "version": "4.0.3",
+   "local": true,
+   "nodes": {
+    "generic-ble": {
+     "name": "generic-ble",
+     "types": [
+      "Generic BLE in",
+      "Generic BLE out",
+      "Generic BLE"
+     ],
+     "enabled": true,
+     "local": true,
+     "module": "node-red-contrib-generic-ble",
+     "file": "/home/odroid/.node-red/node_modules/node-red-contrib-generic-ble/dist/generic-ble.js"
+    }
+   }
   }
  },
  "_credentialSecret": "f4402ba912337e5ee31d65081ef492c4f609191bc03150a8d34c172a73476589",
@@ -884,13 +903,13 @@
     "view": {
      "view-show-grid": true,
      "view-snap-grid": true,
-     "view-grid-size": 20,
+     "view-grid-size": "20",
      "view-node-status": true,
      "view-node-show-label": true,
      "view-show-tips": true
     }
    },
-   "menu-menu-item-sidebar": false
+   "menu-menu-item-sidebar": true
   }
  }
 }
