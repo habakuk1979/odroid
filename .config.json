@@ -415,7 +415,7 @@
   },
   "node-red-dashboard": {
    "name": "node-red-dashboard",
-   "version": "2.17.1",
+   "version": "2.28.2",
    "local": true,
    "nodes": {
     "ui_base": {
@@ -632,7 +632,7 @@
   },
   "node-red-contrib-johnny-five": {
    "name": "node-red-contrib-johnny-five",
-   "version": "1.0.0-beta.1",
+   "version": "1.0.0-beta.2",
    "local": true,
    "nodes": {
     "j5-platform": {
@@ -858,25 +858,6 @@
      "local": true,
      "module": "node-red-contrib-users",
      "file": "/home/odroid/.node-red/node_modules/node-red-contrib-users/nodes/users_isloggedin.js"
-    }
-   }
-  },
-  "node-red-contrib-generic-ble": {
-   "name": "node-red-contrib-generic-ble",
-   "version": "4.0.3",
-   "local": true,
-   "nodes": {
-    "generic-ble": {
-     "name": "generic-ble",
-     "types": [
-      "Generic BLE in",
-      "Generic BLE out",
-      "Generic BLE"
-     ],
-     "enabled": true,
-     "local": true,
-     "module": "node-red-contrib-generic-ble",
-     "file": "/home/odroid/.node-red/node_modules/node-red-contrib-generic-ble/dist/generic-ble.js"
     }
    }
   }
