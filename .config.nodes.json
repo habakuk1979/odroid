@@ -885,5 +885,143 @@
                 "file": "/home/odroid/.node-red/node_modules/node-red-contrib-users/nodes/users_isloggedin.js"
             }
         }
+    },
+    "node-red-contrib-generic-ble": {
+        "name": "node-red-contrib-generic-ble",
+        "version": "4.0.3",
+        "local": true,
+        "user": true,
+        "nodes": {
+            "generic-ble": {
+                "name": "generic-ble",
+                "types": [
+                    "Generic BLE in",
+                    "Generic BLE out",
+                    "Generic BLE"
+                ],
+                "enabled": true,
+                "local": true,
+                "user": false,
+                "module": "node-red-contrib-generic-ble",
+                "file": "/home/odroid/.node-red/node_modules/node-red-contrib-generic-ble/dist/generic-ble.js"
+            }
+        }
+    },
+    "node-red-contrib-ble-scan": {
+        "name": "node-red-contrib-ble-scan",
+        "version": "1.0.0",
+        "local": true,
+        "user": true,
+        "nodes": {
+            "ble-scan": {
+                "name": "ble-scan",
+                "types": [
+                    "BLE Scan"
+                ],
+                "enabled": true,
+                "local": true,
+                "user": false,
+                "module": "node-red-contrib-ble-scan",
+                "file": "/home/odroid/.node-red/node_modules/node-red-contrib-ble-scan/ble-scan.js"
+            }
+        }
+    },
+    "node-red-contrib-noble-bluetooth": {
+        "name": "node-red-contrib-noble-bluetooth",
+        "version": "0.9.1",
+        "local": true,
+        "user": true,
+        "nodes": {
+            "bluetooth": {
+                "name": "bluetooth",
+                "types": [
+                    "BLE scanner",
+                    "BLE device",
+                    "BLE in",
+                    "BLE out"
+                ],
+                "enabled": true,
+                "local": true,
+                "user": false,
+                "module": "node-red-contrib-noble-bluetooth",
+                "file": "/home/odroid/.node-red/node_modules/node-red-contrib-noble-bluetooth/bluetooth.js"
+            }
+        }
+    },
+    "node-red-node-ping": {
+        "name": "node-red-node-ping",
+        "version": "0.3.1",
+        "local": true,
+        "user": true,
+        "nodes": {
+            "ping": {
+                "name": "ping",
+                "types": [
+                    "ping"
+                ],
+                "enabled": true,
+                "local": true,
+                "user": false,
+                "module": "node-red-node-ping",
+                "file": "/home/odroid/.node-red/node_modules/node-red-node-ping/88-ping.js"
+            }
+        }
+    },
+    "node-red-contrib-ui-led": {
+        "name": "node-red-contrib-ui-led",
+        "version": "0.4.9",
+        "local": true,
+        "user": true,
+        "nodes": {
+            "ui_led": {
+                "name": "ui_led",
+                "types": [
+                    "ui_led"
+                ],
+                "enabled": true,
+                "local": true,
+                "user": false,
+                "module": "node-red-contrib-ui-led",
+                "file": "/home/odroid/.node-red/node_modules/node-red-contrib-ui-led/dist/nodes/ui_led/ui_led.js"
+            }
+        }
+    },
+    "node-red-contrib-noble": {
+        "name": "node-red-contrib-noble",
+        "version": "0.3.0",
+        "local": true,
+        "user": true,
+        "nodes": {
+            "noble": {
+                "name": "noble",
+                "types": [
+                    "scan ble"
+                ],
+                "enabled": true,
+                "local": true,
+                "user": false,
+                "module": "node-red-contrib-noble",
+                "file": "/home/odroid/.node-red/node_modules/node-red-contrib-noble/noble/node-red-contrib-noble.js"
+            }
+        }
+    },
+    "node-red-contrib-bluetooth": {
+        "name": "node-red-contrib-bluetooth",
+        "version": "0.0.6",
+        "local": true,
+        "user": true,
+        "nodes": {
+            "bluetooth": {
+                "name": "bluetooth",
+                "types": [
+                    "bluetooth"
+                ],
+                "enabled": true,
+                "local": true,
+                "user": false,
+                "module": "node-red-contrib-bluetooth",
+                "file": "/home/odroid/.node-red/node_modules/node-red-contrib-bluetooth/bluetooth.js"
+            }
+        }
     }
 }
