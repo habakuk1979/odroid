@@ -35,11 +35,11 @@ module.exports = {
     serialReconnectTime: 15000,
 
     // Retry time in milliseconds for TCP socket connections
-    //socketReconnectTime: 10000,
+    socketReconnectTime: 5000,
 
     // Timeout in milliseconds for TCP server socket connections
     //  defaults to no timeout
-    //socketTimeout: 120000,
+    socketTimeout: 10000,
 
     // Maximum number of messages to wait in queue while attempting to connect to TCP socket
     //  defaults to 1000
