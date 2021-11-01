@@ -1023,5 +1023,24 @@
                 "file": "/home/odroid/.node-red/node_modules/node-red-contrib-bluetooth/bluetooth.js"
             }
         }
+    },
+    "node-red-contrib-tcp-ping": {
+        "name": "node-red-contrib-tcp-ping",
+        "version": "0.0.3",
+        "local": true,
+        "user": true,
+        "nodes": {
+            "tcp-ping": {
+                "name": "tcp-ping",
+                "types": [
+                    "tcp-ping"
+                ],
+                "enabled": true,
+                "local": true,
+                "user": false,
+                "module": "node-red-contrib-tcp-ping",
+                "file": "/home/odroid/.node-red/node_modules/node-red-contrib-tcp-ping/node-red-tcp-ping.js"
+            }
+        }
     }
 }

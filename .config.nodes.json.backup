@@ -1004,5 +1004,24 @@
                 "file": "/home/odroid/.node-red/node_modules/node-red-contrib-noble/noble/node-red-contrib-noble.js"
             }
         }
+    },
+    "node-red-contrib-bluetooth": {
+        "name": "node-red-contrib-bluetooth",
+        "version": "0.0.6",
+        "local": true,
+        "user": true,
+        "nodes": {
+            "bluetooth": {
+                "name": "bluetooth",
+                "types": [
+                    "bluetooth"
+                ],
+                "enabled": true,
+                "local": true,
+                "user": false,
+                "module": "node-red-contrib-bluetooth",
+                "file": "/home/odroid/.node-red/node_modules/node-red-contrib-bluetooth/bluetooth.js"
+            }
+        }
     }
 }
