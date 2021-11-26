@@ -6,13 +6,9 @@
     "dependencies": {
         "@abandonware/noble": "*",
         "node-red-contrib-bigtimer": "~2.2.5",
-        "node-red-contrib-ble-scan": "~1.0.0",
-        "node-red-contrib-bluetooth": "~0.0.6",
         "node-red-contrib-buffer-array": "~1.1.0",
         "node-red-contrib-generic-ble": "~4.0.3",
         "node-red-contrib-moment": "~3.0.3",
-        "node-red-contrib-noble": "~0.3.0",
-        "node-red-contrib-noble-bluetooth": "~0.9.1",
         "node-red-contrib-queue-gate": "~1.3.0",
         "node-red-contrib-simple-gate": "~0.2.4",
         "node-red-contrib-simple-message-queue": "~0.2.5",
