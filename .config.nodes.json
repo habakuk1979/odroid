@@ -407,7 +407,7 @@
     },
     "node-red-node-pi-gpio": {
         "name": "node-red-node-pi-gpio",
-        "version": "1.0.6",
+        "version": "2.0.1",
         "local": true,
         "user": true,
         "nodes": {

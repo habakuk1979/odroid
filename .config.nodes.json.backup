@@ -425,11 +425,12 @@
                 "module": "node-red-node-pi-gpio",
                 "file": "/home/odroid/.node-red/node_modules/node-red-node-pi-gpio/36-rpi-gpio.js"
             }
-        }
+        },
+        "pending_version": "2.0.1"
     },
     "node-red-dashboard": {
         "name": "node-red-dashboard",
-        "version": "3.0.3-beta",
+        "version": "3.1.2",
         "local": true,
         "user": true,
         "nodes": {
@@ -664,8 +665,7 @@
                 "module": "node-red-dashboard",
                 "file": "/home/odroid/.node-red/node_modules/node-red-dashboard/nodes/ui_spacer.js"
             }
-        },
-        "pending_version": "3.1.2"
+        }
     },
     "node-red-node-mysql": {
         "name": "node-red-node-mysql",

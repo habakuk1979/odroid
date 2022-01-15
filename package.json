@@ -18,7 +18,7 @@
         "node-red-contrib-users": "~0.1.9",
         "node-red-dashboard": "~3.1.2",
         "node-red-node-mysql": "0.0.19",
-        "node-red-node-pi-gpio": "~1.0.6",
+        "node-red-node-pi-gpio": "~2.0.1",
         "node-red-node-ping": "~0.3.1"
     }
 }
