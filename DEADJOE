@@ -1,0 +1,58 @@
+
+*** These modified files were found in JOE when it aborted on Sat Jan 15 23:28:23 2022
+*** JOE was aborted by UNIX signal 15
+
+*** File '(Unnamed)'
+/home/odroid/.node-red/.git/COMMIT_EDITMSG
+
+*** File '/home/odroid/.node-red/.git/COMMIT_EDITMSG'
+node-red-node-rpi-gpio updated
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   .config.nodes.json
+#	modified:   .config.nodes.json.backup
+#	modified:   .config.users.json
+#	modified:   .config.users.json.backup
+#	modified:   .flows_odroid.json.backup
+#	modified:   .sessions.json
+#	modified:   flows_odroid.json
+#	new file:   node_modules/.bin/node-gyp
+#	new file:   node_modules/.bin/sshpk-conv
+#	new file:   node_modules/.bin/sshpk-sign
+#	new file:   node_modules/.bin/sshpk-verify
+#	new file:   node_modules/.bin/uuid
+#	modified:   node_modules/.package-lock.json
+#	modified:   node_modules/base64-arraybuffer/package.json
+#	modified:   node_modules/engine.io-parser/package.json
+#	modified:   node_modules/engine.io/package.json
+#	modified:   node_modules/node-red-dashboard/package.json
+#	modified:   node_modules/node-red-node-pi-gpio/36-rpi-gpio.html
+#	modified:   node_modules/node-red-node-pi-gpio/36-rpi-gpio.js
+#	modified:   node_modules/node-red-node-pi-gpio/README.md
+#	modified:   node_modules/node-red-node-pi-gpio/locales/de/36-rpi-gpio.html
+#	modified:   node_modules/node-red-node-pi-gpio/locales/de/36-rpi-gpio.json
+#	modified:   node_modules/node-red-node-pi-gpio/locales/en-US/36-rpi-gpio.html
+#	modified:   node_modules/node-red-node-pi-gpio/locales/ja/36-rpi-gpio.html
+#	modified:   node_modules/node-red-node-pi-gpio/locales/ja/36-rpi-gpio.json
+#	modified:   node_modules/node-red-node-pi-gpio/locales/ko/36-rpi-gpio.html
+#	modified:   node_modules/node-red-node-pi-gpio/nrgpio
+#	modified:   node_modules/node-red-node-pi-gpio/nrgpio.py
+#	modified:   node_modules/node-red-node-pi-gpio/package.json
+#	new file:   node_modules/node-red-node-pi-gpio/testgpio
+#	modified:   node_modules/node-red-node-pi-gpio/testgpio.py
+#	modified:   node_modules/socket.io/package.json
+#	modified:   node_modules/ws/package.json
+#	modified:   package-lock.json
+#	modified:   package.json
+#
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
