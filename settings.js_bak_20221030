@@ -20,7 +20,6 @@
 
 //here we declare the environment variables:
 process.env.Odroid_IP_from_GoProAP_DHCP='10.5.5.101';
-//process.env.{{your variable}}='true';
 
 module.exports = {
     // the tcp port that the Node-RED web server is listening on
@@ -277,6 +276,33 @@ module.exports = {
         }
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

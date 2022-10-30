@@ -132,7 +132,8 @@
                 "7f8d9a530f2906c4",
                 "807c9f5bb4332ef0",
                 "19d44031b9ac3461"
-            ]
+            ],
+            "filter": "filterCurrent"
         }
     }
 }

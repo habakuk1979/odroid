@@ -967,5 +967,35 @@
                 "file": "/home/odroid/.node-red/node_modules/node-red-contrib-opi-gpio/opi-gpio-in.js"
             }
         }
+    },
+    "node-red-contrib-libgpiod": {
+        "name": "node-red-contrib-libgpiod",
+        "version": "0.0.1",
+        "local": true,
+        "user": true,
+        "nodes": {
+            "gpio-in": {
+                "name": "gpio-in",
+                "types": [
+                    "gpio-in"
+                ],
+                "enabled": true,
+                "local": true,
+                "user": false,
+                "module": "node-red-contrib-libgpiod",
+                "file": "/home/odroid/.node-red/node_modules/node-red-contrib-libgpiod/nodes/gpio-in.js"
+            },
+            "gpio-out": {
+                "name": "gpio-out",
+                "types": [
+                    "gpio-out"
+                ],
+                "enabled": true,
+                "local": true,
+                "user": false,
+                "module": "node-red-contrib-libgpiod",
+                "file": "/home/odroid/.node-red/node_modules/node-red-contrib-libgpiod/nodes/gpio-out.js"
+            }
+        }
     }
 }
