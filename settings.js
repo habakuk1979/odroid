@@ -20,6 +20,7 @@
 
 //here we declare the environment variables:
 process.env.Odroid_IP_from_GoProAP_DHCP='10.5.5.101';
+process.env.GoPro_IP_from_Odroid_DHCP='10.71.79.100';
 //process.env.{{your variable}}='true';
 
 module.exports = {
@@ -277,6 +278,68 @@ module.exports = {
         }
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
