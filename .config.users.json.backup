@@ -221,7 +221,6 @@
                 "b577938d19731fd3",
                 "48154e943cb7832f",
                 "9657eae3aacd79aa",
-                "1459a40b135bab37",
                 "9ee56321.dc991",
                 "f9d44bec.94e2a8",
                 "37bb43f946d904df",
@@ -230,7 +229,7 @@
                 "93c2fe7.c41d4",
                 "ec5f990eab54dffb"
             ],
-            "filter": "filterSelected"
+            "filter": "filterCurrent"
         }
     }
 }
