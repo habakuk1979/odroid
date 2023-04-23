@@ -977,22 +977,22 @@
             }
         }
     },
-    "node-red-contrib-noble": {
-        "name": "node-red-contrib-noble",
-        "version": "0.3.2",
-        "local": false,
-        "user": false,
+    "node-red-contrib-ui-time-scheduler": {
+        "name": "node-red-contrib-ui-time-scheduler",
+        "version": "1.17.2",
+        "local": true,
+        "user": true,
         "nodes": {
-            "noble": {
-                "name": "noble",
+            "time_scheduler": {
+                "name": "time_scheduler",
                 "types": [
-                    "scan ble"
+                    "ui_time_scheduler"
                 ],
                 "enabled": true,
-                "local": false,
+                "local": true,
                 "user": false,
-                "module": "node-red-contrib-noble",
-                "file": "/home/odroid/.nvm/versions/node/v12.22.7/lib/node_modules/node-red-contrib-noble/noble/node-red-contrib-noble.js"
+                "module": "node-red-contrib-ui-time-scheduler",
+                "file": "/home/odroid/.node-red/node_modules/node-red-contrib-ui-time-scheduler/time-scheduler.js"
             }
         }
     }

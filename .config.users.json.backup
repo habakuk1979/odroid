@@ -235,9 +235,14 @@
                 "ab9433e781952b4c",
                 "d6f74ac8c717a8b2",
                 "93c2fe7.c41d4",
-                "ec5f990eab54dffb"
+                "ec5f990eab54dffb",
+                "63456e723001364e",
+                "c880f28a336e9467",
+                "167ebc3cd83b8a3f",
+                "28a60d90be9c85c8"
             ],
-            "filter": "filterCurrent"
+            "filter": "filterCurrent",
+            "clearType": "all"
         }
     }
 }
