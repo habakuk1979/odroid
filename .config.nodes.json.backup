@@ -995,5 +995,109 @@
                 "file": "/home/odroid/.node-red/node_modules/node-red-contrib-ui-time-scheduler/time-scheduler.js"
             }
         }
+    },
+    "node-red-contrib-chronos": {
+        "name": "node-red-contrib-chronos",
+        "version": "1.19.0",
+        "local": true,
+        "user": true,
+        "nodes": {
+            "chronos-config": {
+                "name": "chronos-config",
+                "types": [
+                    "chronos-config"
+                ],
+                "enabled": true,
+                "local": true,
+                "user": false,
+                "module": "node-red-contrib-chronos",
+                "file": "/home/odroid/.node-red/node_modules/node-red-contrib-chronos/nodes/config.js"
+            },
+            "chronos-scheduler": {
+                "name": "chronos-scheduler",
+                "types": [
+                    "chronos-scheduler"
+                ],
+                "enabled": true,
+                "local": true,
+                "user": false,
+                "module": "node-red-contrib-chronos",
+                "file": "/home/odroid/.node-red/node_modules/node-red-contrib-chronos/nodes/scheduler.js"
+            },
+            "chronos-repeat": {
+                "name": "chronos-repeat",
+                "types": [
+                    "chronos-repeat"
+                ],
+                "enabled": true,
+                "local": true,
+                "user": false,
+                "module": "node-red-contrib-chronos",
+                "file": "/home/odroid/.node-red/node_modules/node-red-contrib-chronos/nodes/repeat.js"
+            },
+            "chronos-delay": {
+                "name": "chronos-delay",
+                "types": [
+                    "chronos-delay"
+                ],
+                "enabled": true,
+                "local": true,
+                "user": false,
+                "module": "node-red-contrib-chronos",
+                "file": "/home/odroid/.node-red/node_modules/node-red-contrib-chronos/nodes/delay.js"
+            },
+            "chronos-switch": {
+                "name": "chronos-switch",
+                "types": [
+                    "chronos-switch"
+                ],
+                "enabled": true,
+                "local": true,
+                "user": false,
+                "module": "node-red-contrib-chronos",
+                "file": "/home/odroid/.node-red/node_modules/node-red-contrib-chronos/nodes/switch.js"
+            },
+            "chronos-filter": {
+                "name": "chronos-filter",
+                "types": [
+                    "chronos-filter"
+                ],
+                "enabled": true,
+                "local": true,
+                "user": false,
+                "module": "node-red-contrib-chronos",
+                "file": "/home/odroid/.node-red/node_modules/node-red-contrib-chronos/nodes/filter.js"
+            },
+            "chronos-change": {
+                "name": "chronos-change",
+                "types": [
+                    "chronos-change"
+                ],
+                "enabled": true,
+                "local": true,
+                "user": false,
+                "module": "node-red-contrib-chronos",
+                "file": "/home/odroid/.node-red/node_modules/node-red-contrib-chronos/nodes/change.js"
+            }
+        }
+    },
+    "node-red-contrib-msg-resend": {
+        "name": "node-red-contrib-msg-resend",
+        "version": "1.0.0",
+        "local": true,
+        "user": true,
+        "nodes": {
+            "msg-resend": {
+                "name": "msg-resend",
+                "types": [
+                    "msg-resend"
+                ],
+                "enabled": true,
+                "local": true,
+                "user": false,
+                "module": "node-red-contrib-msg-resend",
+                "file": "/home/odroid/.node-red/node_modules/node-red-contrib-msg-resend/msg_resend.js"
+            }
+        }
     }
 }
