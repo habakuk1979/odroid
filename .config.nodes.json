@@ -688,7 +688,7 @@
     },
     "node-red-contrib-simple-message-queue": {
         "name": "node-red-contrib-simple-message-queue",
-        "version": "0.2.5",
+        "version": "0.2.8",
         "local": true,
         "user": true,
         "nodes": {

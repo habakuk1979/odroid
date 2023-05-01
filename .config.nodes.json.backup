@@ -703,7 +703,8 @@
                 "module": "node-red-contrib-simple-message-queue",
                 "file": "/home/odroid/.node-red/node_modules/node-red-contrib-simple-message-queue/simple-message-queue.js"
             }
-        }
+        },
+        "pending_version": "0.2.8"
     },
     "node-red-contrib-queue-gate": {
         "name": "node-red-contrib-queue-gate",
@@ -1078,25 +1079,6 @@
                 "user": false,
                 "module": "node-red-contrib-chronos",
                 "file": "/home/odroid/.node-red/node_modules/node-red-contrib-chronos/nodes/change.js"
-            }
-        }
-    },
-    "node-red-contrib-msg-resend": {
-        "name": "node-red-contrib-msg-resend",
-        "version": "1.0.0",
-        "local": true,
-        "user": true,
-        "nodes": {
-            "msg-resend": {
-                "name": "msg-resend",
-                "types": [
-                    "msg-resend"
-                ],
-                "enabled": true,
-                "local": true,
-                "user": false,
-                "module": "node-red-contrib-msg-resend",
-                "file": "/home/odroid/.node-red/node_modules/node-red-contrib-msg-resend/msg_resend.js"
             }
         }
     }
