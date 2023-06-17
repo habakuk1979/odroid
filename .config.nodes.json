@@ -1080,5 +1080,24 @@
                 "file": "/home/odroid/.node-red/node_modules/node-red-contrib-chronos/nodes/change.js"
             }
         }
+    },
+    "node-red-contrib-debounce": {
+        "name": "node-red-contrib-debounce",
+        "version": "0.0.2",
+        "local": true,
+        "user": true,
+        "nodes": {
+            "debounce": {
+                "name": "debounce",
+                "types": [
+                    "debounce"
+                ],
+                "enabled": true,
+                "local": true,
+                "user": false,
+                "module": "node-red-contrib-debounce",
+                "file": "/home/odroid/.node-red/node_modules/node-red-contrib-debounce/nodes/debounce.js"
+            }
+        }
     }
 }

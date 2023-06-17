@@ -688,7 +688,7 @@
     },
     "node-red-contrib-simple-message-queue": {
         "name": "node-red-contrib-simple-message-queue",
-        "version": "0.2.5",
+        "version": "0.2.8",
         "local": true,
         "user": true,
         "nodes": {
@@ -703,8 +703,7 @@
                 "module": "node-red-contrib-simple-message-queue",
                 "file": "/home/odroid/.node-red/node_modules/node-red-contrib-simple-message-queue/simple-message-queue.js"
             }
-        },
-        "pending_version": "0.2.8"
+        }
     },
     "node-red-contrib-queue-gate": {
         "name": "node-red-contrib-queue-gate",
