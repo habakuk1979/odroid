@@ -1099,5 +1099,100 @@
                 "file": "/home/odroid/.node-red/node_modules/node-red-contrib-debounce/nodes/debounce.js"
             }
         }
+    },
+    "node-red-contrib-timed-counter": {
+        "name": "node-red-contrib-timed-counter",
+        "version": "0.1.0",
+        "local": true,
+        "user": true,
+        "nodes": {
+            "timed-counter": {
+                "name": "timed-counter",
+                "types": [
+                    "timed-counter"
+                ],
+                "enabled": true,
+                "local": true,
+                "user": false,
+                "module": "node-red-contrib-timed-counter",
+                "file": "/home/odroid/.node-red/node_modules/node-red-contrib-timed-counter/timed-counter.js"
+            }
+        }
+    },
+    "node-red-contrib-counter": {
+        "name": "node-red-contrib-counter",
+        "version": "0.1.6",
+        "local": true,
+        "user": true,
+        "nodes": {
+            "counter": {
+                "name": "counter",
+                "types": [
+                    "counter"
+                ],
+                "enabled": true,
+                "local": true,
+                "user": false,
+                "module": "node-red-contrib-counter",
+                "file": "/home/odroid/.node-red/node_modules/node-red-contrib-counter/counter.js"
+            }
+        }
+    },
+    "node-red-contrib-unsafe-function": {
+        "name": "node-red-contrib-unsafe-function",
+        "version": "0.8.0",
+        "local": true,
+        "user": true,
+        "nodes": {
+            "unsafe-function": {
+                "name": "unsafe-function",
+                "types": [
+                    "unsafe-function"
+                ],
+                "enabled": true,
+                "local": true,
+                "user": false,
+                "module": "node-red-contrib-unsafe-function",
+                "file": "/home/odroid/.node-red/node_modules/node-red-contrib-unsafe-function/unsafe-function.js"
+            }
+        }
+    },
+    "node-red-contrib-msg-speed": {
+        "name": "node-red-contrib-msg-speed",
+        "version": "2.1.0",
+        "local": true,
+        "user": true,
+        "nodes": {
+            "msg-speed": {
+                "name": "msg-speed",
+                "types": [
+                    "msg-speed"
+                ],
+                "enabled": true,
+                "local": true,
+                "user": false,
+                "module": "node-red-contrib-msg-speed",
+                "file": "/home/odroid/.node-red/node_modules/node-red-contrib-msg-speed/msg_speed.js"
+            }
+        }
+    },
+    "node-red-node-smooth": {
+        "name": "node-red-node-smooth",
+        "version": "0.1.2",
+        "local": true,
+        "user": true,
+        "nodes": {
+            "smooth": {
+                "name": "smooth",
+                "types": [
+                    "smooth"
+                ],
+                "enabled": true,
+                "local": true,
+                "user": false,
+                "module": "node-red-node-smooth",
+                "file": "/home/odroid/.node-red/node_modules/node-red-node-smooth/17-smooth.js"
+            }
+        }
     }
 }

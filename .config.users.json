@@ -239,10 +239,11 @@
                 "63456e723001364e",
                 "c880f28a336e9467",
                 "167ebc3cd83b8a3f",
-                "28a60d90be9c85c8"
+                "28a60d90be9c85c8",
+                "7342e884e4f04227"
             ],
             "filter": "filterCurrent",
-            "clearType": "filtered"
+            "clearType": "all"
         }
     }
 }
